@@ -6,6 +6,8 @@ OASIP คือ เว็บแอพที่สามารถจองเว�
 
 ## Home Page
 
+![HomePage](./public/images/protptype/about-us.JPG)
+
 ## Event Page
 
 ## Add Event Page
